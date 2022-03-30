@@ -6,7 +6,7 @@ count = 0
 lon = []
 lat = []
 # API key goes here! This program uses open-weather for its free API.
-api_key = "f1cabbb0e1f9b185fd3b70cd8240f3b0"
+api_key = "ENTER API KEY HERE"
 # I used the US for this example program, but you can put any countries initials here.
 country = "us"
 
