@@ -6,3 +6,5 @@ This version is much simipler than the SMS based one, all it uses is one input f
 # OpenWeather API key
 You will need to get your own API key and add it. 
 https://openweathermap.org/api
+# Other Countries
+You can actually add the initals of other countries as well! Simply go to the "Global Variables" section of code and remoove the "US" and put your countries initals!
