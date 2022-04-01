@@ -9,3 +9,4 @@ https://openweathermap.org/api
 # Other Countries
 You can add the initials of other countries as well! Simply go to the "Global Variables" section of code and remove the "US" and put your countries initials!
 # SMS Version
+https://github.com/NoahC52/Weather_Python_SMS
